@@ -1,4 +1,5 @@
 # Installation Termux
+     apt update && apt upgrade -y
      apt install git python -y
      git clone https://github.com/DilumBBandara/D-Zip.git
      cd D-Zip
