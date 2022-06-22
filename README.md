@@ -34,7 +34,7 @@
      cd D-Zip
      python D-Zip.py
 
-## SCREEN SHOTS :
+## SCREENSHOT :
 
 <a href="https://github.com/DilumBBandara/D-Zip"><img src="D-Zip.jpg"><a/>
 
